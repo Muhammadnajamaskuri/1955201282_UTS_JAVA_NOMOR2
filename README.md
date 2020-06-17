@@ -2,6 +2,7 @@
  REPOSITORY BERISI PRAKTIKUM NO.2 MENGENAI I/O,PERCABANGAN DAN PERULANGAN
 
 1.	INPUT OUTPUT
+
 a)	Scanner
 
 Progam perkalian, yag mana dalam program ini menggunakan class Scanner dengan menggunakan tipe data integer oleh karnanya fungsi/method nya menggunakan next.Int(). Program ini merupakan program perkalian, dengan proses memasukkan nilai pertama dan nilai kedua terlebih dahulu , yang kemudian akan dikalikan keduanya. Dan kemudia akan muncul hasil akhir/ outputnya berupa jawaban dari hasil perkalian kedua bilangan ynag dimasukkan.
@@ -32,7 +33,7 @@ Program pengulang kalimat/kata. Progam ini mengunakan perulangan FOR, dengan men
 
 b)	WHILE
 
-Program pengulang kata/ kalimat. Program, ini mengguankan perulangan WHILE, dengan tipe data integer. Program ini akan mengulang-ulang kata SUBHANNALLAH sebanayak 15 kali, sesuai dengan rumus yang ada, dengan lajur deret ke samping.
+Program pengulang kata/ kalimat. Program, ini mengguankan perulangan WHILE, dengan tipe data integer. Program ini akan mengulang-ulang kata SUBHANNALLAH sebanyak 15 kali, sesuai dengan rumus yang ada, dengan lajur deret ke samping.
 
 c)	DO-WHILE
 
