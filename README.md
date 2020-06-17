@@ -5,7 +5,7 @@
 
 a)	Scanner
 
-Progam perkalian, yag mana dalam program ini menggunakan class Scanner dengan menggunakan tipe data integer oleh karnanya fungsi/method nya menggunakan next.Int(). Program ini merupakan program perkalian, dengan proses memasukkan nilai pertama dan nilai kedua terlebih dahulu , yang kemudian akan dikalikan keduanya. Dan kemudia akan muncul hasil akhir/ outputnya berupa jawaban dari hasil perkalian kedua bilangan ynag dimasukkan.
+Progam perkalian, yang mana dalam program ini menggunakan class Scanner dengan menggunakan tipe data integer oleh karnanya fungsi/method nya menggunakan next.Int(). Program ini merupakan program perkalian, dengan proses memasukkan nilai pertama dan nilai kedua terlebih dahulu , yang kemudian akan dikalikan keduanya. Dan kemudia akan muncul hasil akhir/ outputnya berupa jawaban dari hasil perkalian kedua bilangan ynag dimasukkan.
 
 b)	Buffer Reader
 
